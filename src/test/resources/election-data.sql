@@ -1,0 +1,1 @@
+INSERT INTO elections (id, version, created_at, updated_at, created_by, updated_by, advance_vote_date, code, default_tag, election_date, nomination_period_date, serial_number, status, title) VALUES (1, 0, '2022-02-23 16:44:15.784881', '2022-02-23 16:44:15.784881', NULL, NULL, NULL, '04032022', true, '2022-04-03', NULL, NULL, 'Published', 'April 3 2022 Primary');
